@@ -34,10 +34,14 @@ The fiasco of getting new wheels and tires to replace the rotted and dangerous s
 
 [<img alt="Jimmy's New Shoes Video Thumbnail" src="Jimmy's%20New%20Shoes%20Thumbnail%20Rev%201.png">](https://www.youtube.com/watch?v=AXS9r-qLSYo)
 
+## Jimmy's Hub Leak
+Repairing a leaky axle hub seal and replacing wheel bearings.
+
+[<img alt="Jimmy's Hub Leak Video Thumbnail" src="Jimmys%20Hub%20Leak%20Thumbnail%20Rev%200.jpg">](https://www.youtube.com/watch?v=BqKU0TZA1vU)
+
 ## Future Videos
 I have a ton of footage and the historical holdup has been finding the time and motivation to edit and try to come up with a coherant video. This isn't helped by my tendency to jump from one thing to another without actually finishing anything, leaving a bunch of half started "projects" in my wake. However I think I have enough to make the following videos:
 
-- Axle Hub Seals (rendering this one as I'm writing this)
 - Brakes
 - Electrical
 
