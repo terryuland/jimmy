@@ -5,6 +5,14 @@
 
 The goal of this project is to get this truck back on the road, at least enough to pass a normal safety inspection, and document the journey on [YouTube](https://www.youtube.com/playlist?list=PL5zrjhP8uTBTyOsT4I877-9L_4qDtNuRh) 
 
+## Specifications
+- Year Built: 1961
+- Series: 1500 (3/4 Ton)
+- Engine: [305 CID V6](https://en.wikipedia.org/wiki/GMC_V6_engine#305)
+- Drive: 4WD
+- Wheelbase: 127" (Longbed)
+- Max GVW: 8100 lbs
+
 ## History
 My father purchased this truck in the late 60's from a seismograph company in Colorado, where it was used to move pieces of heavy equipment using a hydraulic crane that was fitted to the truck bed. I'm not sure how much or if at all this crane was used when my dad purchased it, but pieces of it are still on the property and the modifications are still part of the truck. My grandfather replaced the wooden bed with a steel plate and at some point wooden panels were installed to extend the sides of the bed upward. My earliest memory of the truck was playing in the grain in the bed as my dad was dumping more in it with his combine. Since then it's been a general farm workhorse and it has pulled everything from backhoes to houses, and when I graduated high school, it was the vehicle I chose to drive around the school in celebration of moving on.
 
